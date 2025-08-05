@@ -1,0 +1,2 @@
+A very first project in learning PLP.
+For the first week introduction to python project 1 basic calculator program to ask the user to input two numbers and mathimatical operations(addition, subtruction, multiplication and division).
